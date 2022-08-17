@@ -1,0 +1,48 @@
+{
+  "uid" : "130080c7fbe37f7e",
+  "name" : "I click on Inspection Type",
+  "fullName" : "Login to MyLicense BackPack: Add Licensee.I click on Inspection Type",
+  "historyId" : "497a8c7e1c72c316d1a987f12c2bd301",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 1636630760641,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "testClass",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "testMethod",
+    "value" : "I click on Inspection Type"
+  }, {
+    "name" : "package",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "130080c7fbe37f7e.json",
+  "parameterValues" : [ ]
+}

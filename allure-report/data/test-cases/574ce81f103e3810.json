@@ -1,0 +1,164 @@
+{
+  "uid" : "574ce81f103e3810",
+  "name" : "Then I click on next",
+  "fullName" : "Login to MyLicense BackPack: Login to MyLicense BackPack.Then I click on next",
+  "historyId" : "dba93b48f101f2188afd9e5d72fff0ba",
+  "time" : {
+    "start" : 1636630718850,
+    "stop" : 1636630721940,
+    "duration" : 3090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636630718851,
+        "stop" : 1636630718864,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3dc24b2bc12784f3",
+        "name" : "Request",
+        "source" : "3dc24b2bc12784f3.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "166570bf2c5bd3d9",
+        "name" : "Response",
+        "source" : "166570bf2c5bd3d9.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1636630718867,
+        "stop" : 1636630718884,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6fa96cf76ecb47e5",
+        "name" : "Request",
+        "source" : "6fa96cf76ecb47e5.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "c93408e58e09575e",
+        "name" : "Response",
+        "source" : "c93408e58e09575e.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636630718885,
+        "stop" : 1636630718891,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9cd278d840ed1cea",
+        "name" : "Request",
+        "source" : "9cd278d840ed1cea.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "65f66e08ff945616",
+        "name" : "Response",
+        "source" : "65f66e08ff945616.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/ccda44ef-1559-4c5f-b548-1dc52bdf7f5f/click",
+      "time" : {
+        "start" : 1636630718893,
+        "stop" : 1636630718936,
+        "duration" : 43
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "testClass",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on next"
+  }, {
+    "name" : "package",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "574ce81f103e3810.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "56c5f1d170591f25f114df83dbf0edb4",
+    "name" : "Login to MyLicense BackPack: Add Licensee",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 2,
+      "passed" : 1,
+      "unknown" : 2,
+      "total" : 10
+    }
+  }, {
+    "uid" : "f5b1c6a2f752f902f94d6271adf6db8a",
+    "name" : "Login to MyLicense BackPack: Login to MyLicense BackPack",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  } ]
+}

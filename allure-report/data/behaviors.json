@@ -1,0 +1,226 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Given I am on the login page",
+    "uid" : "c1bd5ea4f4c36ea5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636630711276,
+      "stop" : 1636630718623,
+      "duration" : 7347
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "When I enter \"osama@mavrictech.com\"",
+    "uid" : "307fb847a5271573",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636630718623,
+      "stop" : 1636630718850,
+      "duration" : 227
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then I click on next",
+    "uid" : "574ce81f103e3810",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636630718850,
+      "stop" : 1636630721940,
+      "duration" : 3090
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then Insert \"OaMavric385\"",
+    "uid" : "8d964b7a024202a0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636630721941,
+      "stop" : 1636630722002,
+      "duration" : 61
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then I click on login button",
+    "uid" : "762943f6705e4f7c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636630722002,
+      "stop" : 1636630727108,
+      "duration" : 5106
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then I click on Yes button",
+    "uid" : "d7d4347d7ee52b8d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636630727108,
+      "stop" : 1636630730181,
+      "duration" : 3073
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "",
+    "uid" : "7fe3e478626ddb62",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636630730181,
+      "stop" : 1636630730182,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "When I click on Add Licensee",
+    "uid" : "c5b28455b011f936",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1636630730198,
+      "stop" : 1636630760640,
+      "duration" : 30442
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then I click on Drop Down",
+    "uid" : "69b9388db7a2aaaa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1636630760640,
+      "stop" : 0,
+      "duration" : -1636630760640
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then I click on Inspection Type",
+    "uid" : "8dac51ab353bd264",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1636630760641,
+      "stop" : 0,
+      "duration" : -1636630760641
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then I click on set \"automation-scripts\"",
+    "uid" : "fe5df4390e45ff92",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1636630760641,
+      "stop" : 1636630760641,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then I click on county dropdown",
+    "uid" : "72ee49a9b794cdca",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1636630760641,
+      "stop" : 1636630760641,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "I click on Drop Down",
+    "uid" : "a7d3cbb16c29aaf8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1636630760641,
+      "stop" : 1636630760641,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I click on Inspection Type",
+    "uid" : "130080c7fbe37f7e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1636630760641,
+      "stop" : 1636630760641,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I select county from dropdown",
+    "uid" : "4659174e159ee7da",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1636630760641,
+      "stop" : 1636630760642,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "",
+    "uid" : "5c2cc966d22eb3dc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636630760642,
+      "stop" : 1636630760642,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Then I click on Add button",
+    "uid" : "810e3a3b7e0177a1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1636630760642,
+      "stop" : 1636630760642,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  } ]
+}

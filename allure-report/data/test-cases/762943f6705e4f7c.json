@@ -1,0 +1,164 @@
+{
+  "uid" : "762943f6705e4f7c",
+  "name" : "Then I click on login button",
+  "fullName" : "Login to MyLicense BackPack: Login to MyLicense BackPack.Then I click on login button",
+  "historyId" : "630071626654be0c4db9407a02db26d8",
+  "time" : {
+    "start" : 1636630722002,
+    "stop" : 1636630727108,
+    "duration" : 5106
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636630722003,
+        "stop" : 1636630722010,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3045a80122343a4c",
+        "name" : "Request",
+        "source" : "3045a80122343a4c.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "8ed8ec5f157a8fe0",
+        "name" : "Response",
+        "source" : "8ed8ec5f157a8fe0.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1636630722012,
+        "stop" : 1636630722022,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "980e389266abe1be",
+        "name" : "Request",
+        "source" : "980e389266abe1be.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "a95d79cf7861c8f1",
+        "name" : "Response",
+        "source" : "a95d79cf7861c8f1.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636630722022,
+        "stop" : 1636630722049,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "94700aa01b326dfb",
+        "name" : "Request",
+        "source" : "94700aa01b326dfb.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "424b2a1bd46536c6",
+        "name" : "Response",
+        "source" : "424b2a1bd46536c6.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/8f608099-a155-4e27-ab18-d4c66b07e425/click",
+      "time" : {
+        "start" : 1636630722052,
+        "stop" : 1636630724102,
+        "duration" : 2050
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "testClass",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on login button"
+  }, {
+    "name" : "package",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "762943f6705e4f7c.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

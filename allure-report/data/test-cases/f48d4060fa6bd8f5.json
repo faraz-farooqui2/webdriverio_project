@@ -1,0 +1,56 @@
+{
+  "uid" : "f48d4060fa6bd8f5",
+  "name" : "",
+  "fullName" : "Login to MyLicense BackPack: Login to MyLicense BackPack.",
+  "historyId" : "30b6d08fa306e80c09d3e1fd4664d050",
+  "time" : {
+    "start" : 1636630711274,
+    "stop" : 1636630711276,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "testClass",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f48d4060fa6bd8f5.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

@@ -1,0 +1,171 @@
+[ {
+  "uid" : "8dac51ab353bd264",
+  "name" : "Then I click on Inspection Type",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 0,
+    "duration" : -1636630760641
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "69b9388db7a2aaaa",
+  "name" : "Then I click on Drop Down",
+  "time" : {
+    "start" : 1636630760640,
+    "stop" : 0,
+    "duration" : -1636630760640
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "fe5df4390e45ff92",
+  "name" : "Then I click on set \"automation-scripts\"",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 1636630760641,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "72ee49a9b794cdca",
+  "name" : "Then I click on county dropdown",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 1636630760641,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7fe3e478626ddb62",
+  "name" : "",
+  "time" : {
+    "start" : 1636630730181,
+    "stop" : 1636630730182,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7d3cbb16c29aaf8",
+  "name" : "I click on Drop Down",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 1636630760641,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c5b28455b011f936",
+  "name" : "When I click on Add Licensee",
+  "time" : {
+    "start" : 1636630730198,
+    "stop" : 1636630760640,
+    "duration" : 30442
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "574ce81f103e3810",
+  "name" : "Then I click on next",
+  "time" : {
+    "start" : 1636630718850,
+    "stop" : 1636630721940,
+    "duration" : 3090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "130080c7fbe37f7e",
+  "name" : "I click on Inspection Type",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 1636630760641,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "307fb847a5271573",
+  "name" : "When I enter \"osama@mavrictech.com\"",
+  "time" : {
+    "start" : 1636630718623,
+    "stop" : 1636630718850,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "762943f6705e4f7c",
+  "name" : "Then I click on login button",
+  "time" : {
+    "start" : 1636630722002,
+    "stop" : 1636630727108,
+    "duration" : 5106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c2cc966d22eb3dc",
+  "name" : "",
+  "time" : {
+    "start" : 1636630760642,
+    "stop" : 1636630760642,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1bd5ea4f4c36ea5",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1636630711276,
+    "stop" : 1636630718623,
+    "duration" : 7347
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7d4347d7ee52b8d",
+  "name" : "Then I click on Yes button",
+  "time" : {
+    "start" : 1636630727108,
+    "stop" : 1636630730181,
+    "duration" : 3073
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "810e3a3b7e0177a1",
+  "name" : "Then I click on Add button",
+  "time" : {
+    "start" : 1636630760642,
+    "stop" : 1636630760642,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4659174e159ee7da",
+  "name" : "Then I select county from dropdown",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 1636630760642,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d964b7a024202a0",
+  "name" : "Then Insert \"OaMavric385\"",
+  "time" : {
+    "start" : 1636630721941,
+    "stop" : 1636630722002,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

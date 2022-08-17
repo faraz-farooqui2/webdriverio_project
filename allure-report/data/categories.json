@@ -1,0 +1,94 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Error: element (\"//span[contains(text(),'ADD LICENSEE')]/parent::button\") still not displayed after 30000ms",
+      "children" : [ {
+        "name" : "When I click on Add Licensee",
+        "uid" : "c5b28455b011f936",
+        "parentUid" : "0281ebe2c8d66e03ab3f7105b4a204a1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1636630730198,
+          "stop" : 1636630760640,
+          "duration" : 30442
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-95.0.4638.69" ]
+      } ],
+      "uid" : "0281ebe2c8d66e03ab3f7105b4a204a1"
+    }, {
+      "name" : "Step \"I click on set \"automation-scripts\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "children" : [ {
+        "name" : "Then I click on set \"automation-scripts\"",
+        "uid" : "fe5df4390e45ff92",
+        "parentUid" : "dba7b5cb9a36c417022663e1820e3a23",
+        "status" : "broken",
+        "time" : {
+          "start" : 1636630760641,
+          "stop" : 1636630760641,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-95.0.4638.69" ]
+      } ],
+      "uid" : "dba7b5cb9a36c417022663e1820e3a23"
+    }, {
+      "name" : "Step \"I click on county dropdown\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "children" : [ {
+        "name" : "Then I click on county dropdown",
+        "uid" : "72ee49a9b794cdca",
+        "parentUid" : "70f6a71603f131e6ab7930259ea9caee",
+        "status" : "broken",
+        "time" : {
+          "start" : 1636630760641,
+          "stop" : 1636630760641,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-95.0.4638.69" ]
+      } ],
+      "uid" : "70f6a71603f131e6ab7930259ea9caee"
+    }, {
+      "name" : "Step \"I select county from dropdown\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "children" : [ {
+        "name" : "Then I select county from dropdown",
+        "uid" : "4659174e159ee7da",
+        "parentUid" : "d2115b77b9b1295586566aad4666f95d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1636630760641,
+          "stop" : 1636630760642,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-95.0.4638.69" ]
+      } ],
+      "uid" : "d2115b77b9b1295586566aad4666f95d"
+    }, {
+      "name" : "Step \"I click on Add button\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "children" : [ {
+        "name" : "Then I click on Add button",
+        "uid" : "810e3a3b7e0177a1",
+        "parentUid" : "9a683d50d01f85203c75037f97321ce8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1636630760642,
+          "stop" : 1636630760642,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-95.0.4638.69" ]
+      } ],
+      "uid" : "9a683d50d01f85203c75037f97321ce8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "4659174e159ee7da",
+  "name" : "Then I select county from dropdown",
+  "fullName" : "Login to MyLicense BackPack: Add Licensee.Then I select county from dropdown",
+  "historyId" : "485fc906b38a6e2f2d13ad83a1a31986",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 1636630760642,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Step \"I select county from dropdown\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+  "statusTrace" : "Step \"I select county from dropdown\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.\n                \tat Feature(/Users/mac/Documents/Automation Frameworks/dv.webdriver.io/test/features/login.feature):1:1\n                \tat Scenario(Add Licensee):20:3\n                \tat Step(I select county from dropdown):27:6\n                ",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "testClass",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I select county from dropdown"
+  }, {
+    "name" : "package",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4659174e159ee7da.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

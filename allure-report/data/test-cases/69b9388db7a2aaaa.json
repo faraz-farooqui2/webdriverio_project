@@ -1,0 +1,58 @@
+{
+  "uid" : "69b9388db7a2aaaa",
+  "name" : "Then I click on Drop Down",
+  "fullName" : "Login to MyLicense BackPack: Add Licensee.Then I click on Drop Down",
+  "historyId" : "d3a0316c72538c7a40d49f5d9f8348a0",
+  "time" : {
+    "start" : 1636630760640,
+    "stop" : 0,
+    "duration" : -1636630760640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "testClass",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on Drop Down"
+  }, {
+    "name" : "package",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69b9388db7a2aaaa.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

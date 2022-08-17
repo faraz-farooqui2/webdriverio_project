@@ -1,0 +1,332 @@
+{
+  "b0d1f615dd2fcc557e78c374ddbe3c51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5b28455b011f936",
+      "status" : "broken",
+      "statusDetails" : "Error: element (\"//span[contains(text(),'ADD LICENSEE')]/parent::button\") still not displayed after 30000ms",
+      "time" : {
+        "start" : 1636630730198,
+        "stop" : 1636630760640,
+        "duration" : 30442
+      }
+    } ]
+  },
+  "5c750da92f9fc1c917a956ff40a69295" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1bd5ea4f4c36ea5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636630711276,
+        "stop" : 1636630718623,
+        "duration" : 7347
+      }
+    } ]
+  },
+  "4b727431968cbcefe914314c0855b98d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d964b7a024202a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636630721941,
+        "stop" : 1636630722002,
+        "duration" : 61
+      }
+    } ]
+  },
+  "485fc906b38a6e2f2d13ad83a1a31986" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4659174e159ee7da",
+      "status" : "broken",
+      "statusDetails" : "Step \"I select county from dropdown\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1636630760641,
+        "stop" : 1636630760642,
+        "duration" : 1
+      }
+    } ]
+  },
+  "d3a0316c72538c7a40d49f5d9f8348a0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69b9388db7a2aaaa",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1636630760640,
+        "stop" : 0,
+        "duration" : -1636630760640
+      }
+    } ]
+  },
+  "630071626654be0c4db9407a02db26d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "762943f6705e4f7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636630722002,
+        "stop" : 1636630727108,
+        "duration" : 5106
+      }
+    } ]
+  },
+  "dd2f9079819fe260b1aa032d2b95d42a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7d3cbb16c29aaf8",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1636630760641,
+        "stop" : 1636630760641,
+        "duration" : 0
+      }
+    } ]
+  },
+  "497a8c7e1c72c316d1a987f12c2bd301" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "130080c7fbe37f7e",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1636630760641,
+        "stop" : 1636630760641,
+        "duration" : 0
+      }
+    } ]
+  },
+  "30b6d08fa306e80c09d3e1fd4664d050" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7fe3e478626ddb62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636630730181,
+        "stop" : 1636630730182,
+        "duration" : 1
+      }
+    } ]
+  },
+  "cf96a66ff3d5ba6710be86ae6eda880d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8dac51ab353bd264",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1636630760641,
+        "stop" : 0,
+        "duration" : -1636630760641
+      }
+    } ]
+  },
+  "dba93b48f101f2188afd9e5d72fff0ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "574ce81f103e3810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636630718850,
+        "stop" : 1636630721940,
+        "duration" : 3090
+      }
+    } ]
+  },
+  "1d772a07ef6ae81d974ec038a0d6aa2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "810e3a3b7e0177a1",
+      "status" : "broken",
+      "statusDetails" : "Step \"I click on Add button\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1636630760642,
+        "stop" : 1636630760642,
+        "duration" : 0
+      }
+    } ]
+  },
+  "53ac797fddbd5c3b6186d9af0d1c2924" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72ee49a9b794cdca",
+      "status" : "broken",
+      "statusDetails" : "Step \"I click on county dropdown\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1636630760641,
+        "stop" : 1636630760641,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d719d459f1933aa2efc066e076ddcbc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7d4347d7ee52b8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636630727108,
+        "stop" : 1636630730181,
+        "duration" : 3073
+      }
+    } ]
+  },
+  "332ea64eeb4f53afa93830e3d7f76612" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe5df4390e45ff92",
+      "status" : "broken",
+      "statusDetails" : "Step \"I click on set \"automation-scripts\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1636630760641,
+        "stop" : 1636630760641,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e1b51736131e3d93721d0307d2168dc6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5c2cc966d22eb3dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636630760642,
+        "stop" : 1636630760642,
+        "duration" : 0
+      }
+    } ]
+  },
+  "65514301b4a1f47b66ba270b14834369" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "307fb847a5271573",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636630718623,
+        "stop" : 1636630718850,
+        "duration" : 227
+      }
+    } ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "a7d3cbb16c29aaf8",
+  "name" : "I click on Drop Down",
+  "fullName" : "Login to MyLicense BackPack: Add Licensee.I click on Drop Down",
+  "historyId" : "dd2f9079819fe260b1aa032d2b95d42a",
+  "time" : {
+    "start" : 1636630760641,
+    "stop" : 1636630760641,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "testClass",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "testMethod",
+    "value" : "I click on Drop Down"
+  }, {
+    "name" : "package",
+    "value" : "Login to MyLicense BackPack: Add Licensee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7d3cbb16c29aaf8.json",
+  "parameterValues" : [ ]
+}

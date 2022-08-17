@@ -1,0 +1,131 @@
+{
+  "uid" : "8d964b7a024202a0",
+  "name" : "Then Insert \"OaMavric385\"",
+  "fullName" : "Login to MyLicense BackPack: Login to MyLicense BackPack.Then Insert \"OaMavric385\"",
+  "historyId" : "4b727431968cbcefe914314c0855b98d",
+  "time" : {
+    "start" : 1636630721941,
+    "stop" : 1636630722002,
+    "duration" : 61
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636630721942,
+        "stop" : 1636630721953,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bb784c3f0e12b7a1",
+        "name" : "Request",
+        "source" : "bb784c3f0e12b7a1.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "8f80a9dba76f84b6",
+        "name" : "Response",
+        "source" : "8f80a9dba76f84b6.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/a6736fc5-e5f8-4c1d-822b-a0eed9846004/clear",
+      "time" : {
+        "start" : 1636630721954,
+        "stop" : 1636630721978,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/a6736fc5-e5f8-4c1d-822b-a0eed9846004/value",
+      "time" : {
+        "start" : 1636630721978,
+        "stop" : 1636630722002,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ef5957dc00cb98a2",
+        "name" : "Request",
+        "source" : "ef5957dc00cb98a2.json",
+        "type" : "application/json",
+        "size" : 27
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "testClass",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Insert \"OaMavric385\""
+  }, {
+    "name" : "package",
+    "value" : "Login to MyLicense BackPack: Login to MyLicense BackPack"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d964b7a024202a0.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}
